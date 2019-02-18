@@ -28,9 +28,9 @@ const PlayMix = ({playMix, currentMix, playing, children, className, id, fromMix
         loading: id === currentMix && !playing && !fromMixcloud
       })
     }
-    // className={`${className} ${id === currentMix && playing && 'playing'}`}
-    onClick={() => playMix({currentMix: id, fromMixcloud: true, playing: true})}
-    // onClick={() => playMix({currentMix: id, fromMixcloud: false})}
+    className={`${className} ${id === currentMix && playing && 'playing'}`}
+    // onClick={() => playMix({currentMix: id, fromMixcloud: true, playing: true})}
+    onClick={() => playMix({currentMix: id, fromMixcloud: false, playing: true})}
   >
     {children}
   </div>
