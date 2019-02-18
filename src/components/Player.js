@@ -95,7 +95,8 @@ class Player extends Component {
       <iframe
         width="100%"
         height="60"
-        src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2FSvitloConcert%2Fnat-king-cole-night-%D0%BE%D1%82-svitlo-concert%2F"
+        //src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2FSvitloConcert%2Fnat-king-cole-night-%D0%BE%D1%82-svitlo-concert%2F"
+        src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2FProfessor_Eddy%2Fsummer-sweetness-jazzy-mellow-beats-by-the-smooth-operators%2F"
         frameBorder="0"
         className="db fixed bottom-0 z-5"
         // this allows us to get the actual html element inside react
