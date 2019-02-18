@@ -1,21 +1,26 @@
 const mixes = [
-  '/maxvibes/ninja-tune-jazz-session-part-1/',
-  '/NTSRadio/mint-condition-w-hotthobo-27th-november-2017/',
-  '/NTSRadio/full-house-6th-november-2017/',
-  '/NTSRadio/questing-w-zakia-12th-november-2017/',
-  '/NTSRadio/foreign-hour-family-edition-4th-october-2017/',
-  '/truthoughts/tru-thoughts-15th-anniversary-lefto-mix/',
-  '/adamkvasnica3/trip-hop-for-jazz-junkies/',
-  '/NTSRadio/floating-points-four-tet-caribou-23rd-march-2015/',
-  '/NTSRadio/bonobo-24th-june-2015/',
-  '/NTSRadio/floating-points-12th-june-2017/',
-  '/NTSRadio/mount-kimbie-james-blake-8th-september-2015/'
-  // '/djcity/dj-bewser-djcity-podcast/',
-  // '/solechannelcafe/scc404-mr-v-sole-channel-cafe-radio-show-february-5th-2019-hour-2/',
-  // '/Renvomusic/renvo-renvolution-radio-12/',
-  // '/DJROWGU/mixcloud-area-edm-37/',
-  // '/GudVibrations/gud-vibrations-radio-102/',
-  // '/1001Tracklists/matisse-sadko-1001tracklists-exclusive-mix/'
+  '/SvitloConcert/nat-king-cole-night-от-svitlo-concert/',
+  '/adamkvasnica3/this-is-the-blues/',
+  '/maxvibes/jazzy-flavours/',
+  '/Professor_Eddy/summer-sweetness-jazzy-mellow-beats-by-the-smooth-operators/',
+  '/nilsoliver5/nils-frahm-xmas-mix-2017/',
+  '/stampthewax/monday-morning-mixtape-235/',
+  '/maxvibes/jazzin-14/',
+  '/adamkvasnica3/women-of-jazz/',
+  '/LaidBackRadio/ye-summer-veil/',
+  '/mol_/loungin-chapter-9-badbadnotgood-portico-quartet-the-pharcyde-leon-thomas-joe-sample-roy-ayers/',
+  '/DubbelDee/weekend-chill-out-session/',
+  '/adamkvasnica3/moody-jazz-beats/',
+  '/maxvibes/nu-jazz-mix-4/',
+  '/chrisreadsubstance/mr-bongo-x-the-vinyl-factory-guest-mix-brazil-45s/',
+  '/maxvibes/deep-jazz-from-africa/',
+  '/Gelale/funk-specials-26-everything-i-do/',
+  '/adamkvasnica3/flamenco-jazz/',
+  '/adamkvasnica3/jazzy-grooves-for-sunday/',
+  '/perfectvibe/hedonist-breakfast-show-9-tngcradiocom/',
+  '/adamkvasnica3/saturday-evening-jazz/',
+  '/mol_/all-that-jazz-7-daymé-arocena-hiroshi-suzuki-melody-gardot-stacey-kent-batsumi-bill-evans/',
+  '/adamkvasnica3/jazzin-again/'
 ];
 
 export default mixes;

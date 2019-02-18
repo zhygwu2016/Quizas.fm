@@ -6,10 +6,10 @@ const About = ({mixes}) => (
   <div className="ph3 ph4-l pad-bottom">
     <div className="measure center lh-copy">
       <p className="mt0">
-        Marmalade.fm features the latest and greatest in grooves, beats and world music.
+        Quizas.fm features the different types of jazz music all around the world.
       </p>
       <p className="mb4">
-        Whether you’re into hip hop, trip hop, classic jazz, fusion jazz, afro beat or break beat…
+        Whether you’re into Classic Jazz, Jazz-Funk, Blues, or Soul Jazz…
         we have you covered!
       </p>
 
