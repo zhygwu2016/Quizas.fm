@@ -86,7 +86,7 @@ class App extends Component {
       // https://reacttraining.com/react-router/web/example/basic
       <Router>
         <div>
-          {/* this div contians our page (excluding audio player) */}
+          {/* this div contains our page (excluding audio player) */}
           <div className="flex-l justify-end">
             {/* FeaturedMix (needs styling and updating) */}
             <FeaturedMix />
@@ -125,3 +125,5 @@ class App extends Component {
 }
 
 export default connect(state => state, actions)(App);
+
+
